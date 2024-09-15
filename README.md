@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuz</h1>
 <h3 align="center">A passionate web developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ogza&label=Profile%20views&color=0e75b6&style=flat" alt="ogza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ogza" alt="ogza" /></a> </p>
-
 - 💬 Ask me about **javascript, typescript, react, html, css,**
 
 - 📫 How to reach me **akankan.me at gmail.com**
