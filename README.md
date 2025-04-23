@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oğuz</h1>
 <h3 align="center">A passionate web developer from Germany</h3>
 
-- 💬 Ask me about **javascript, typescript, react, html, css,**
+- 💬 Ask me about **javascript, typescript, react, html, css**
 
 - 📫 How to reach me **akankan.me at gmail.com**
 
