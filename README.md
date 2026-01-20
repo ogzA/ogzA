@@ -68,10 +68,7 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogzA&theme=tokyonight&hide_border=true&background=0D1117" alt="streak" />
-</div>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ogzA" alt="GitHub Streak" /></a>
 ---
 <div align="center">
   <sub>Designed with ❤️ by Oğuz Akankan</sub>
