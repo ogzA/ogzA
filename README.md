@@ -42,9 +42,6 @@ PID    CPU%   PROJECT          STATUS
   <summary><samp>&nbsp;▸ stream live stats</samp></summary>
   <br/>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ogzA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4AF2C8&icon_color=FFC46B&text_color=C9D1D9&ring_color=4AF2C8" height="170" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogzA&layout=compact&hide_border=true&bg_color=0D1117&title_color=4AF2C8&text_color=C9D1D9" height="170" alt="Top languages" />
-    <br/><br/>
     <img src="https://streak-stats.demolab.com?user=ogzA&hide_border=true&background=0D1117&ring=4AF2C8&fire=FFC46B&currStreakLabel=4AF2C8&sideLabels=C9D1D9&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=21262D" alt="GitHub streak" />
   </div>
 </details>
