@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860" height="158" viewBox="0 0 860 158" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Session closed">
+  <style><![CDATA[
+    text { font-family: ui-monospace, 'SF Mono', 'Cascadia Code', 'Fira Code', Menlo, Consolas, monospace; }
+    .dim{fill:#8B949E}.fg{fill:#E6EDF3}.mint{fill:#4AF2C8}.coral{fill:#FF7B9C}
+
+    .f1 { opacity:0; animation: fadeIn .5s ease-out .2s forwards; }
+    .f2 { opacity:0; animation: fadeIn .5s ease-out .7s forwards; }
+    .f3 { opacity:0; animation: fadeIn .5s ease-out 2.6s forwards; }
+    @keyframes fadeIn { to { opacity:1; } }
+
+    .pulse {
+      stroke-dasharray: 900;
+      stroke-dashoffset: 900;
+      animation: draw 2s ease-out .9s forwards, glowPulse 3s ease-in-out 3s infinite alternate;
+    }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes glowPulse { from { opacity: .55; } to { opacity: 1; } }
+  ]]></style>
+
+  <!-- shell -->
+  <rect x="6" y="6" width="848" height="146" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+
+  <!-- exit -->
+  <text x="430" y="52" text-anchor="middle" font-size="16" class="f1"><tspan class="mint">oguz@akankan</tspan><tspan class="dim">:~$</tspan><tspan class="fg"> exit</tspan></text>
+  <text x="430" y="82" text-anchor="middle" font-size="13" class="dim f2">[ session closed · thanks for scrolling ]</text>
+
+  <!-- pulse line -->
+  <path class="pulse" d="M28 110 H336 L348 92 L362 128 L374 84 L386 118 L398 110 H832"
+        fill="none" stroke="#4AF2C8" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- credit -->
+  <text x="430" y="140" text-anchor="middle" font-size="12" class="f3"><tspan class="dim"># handcrafted with </tspan><tspan class="coral">♥</tspan><tspan class="dim"> in Wuppertal · see you in the commits</tspan></text>
+</svg>
